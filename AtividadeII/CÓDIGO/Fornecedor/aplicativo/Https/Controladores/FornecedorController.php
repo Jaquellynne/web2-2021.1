@@ -5,7 +5,7 @@ namespace app\Http\Controllers;
 use Illuminate\Http\Request;
 use app\Models\Fornecedor;
 
-class FornecedorController extends Controllers
+class FornecedorController extends Controller
 {
   //
   public function show(){
