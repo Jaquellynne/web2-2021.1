@@ -1,5 +1,9 @@
 <?php
 
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Shema\Blueprint;
+use Illuminate\Support\facades\Schema;
+
 class CreateFornecedorTable extends Migration
 {
 
