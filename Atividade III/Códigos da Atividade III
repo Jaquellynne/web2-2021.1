@@ -1,5 +1,0 @@
-Funcionalidades para clientes:
-- Cliente, ClienteController, create.blade, index.blade, web.
-
-Funcionalidades para fornecedores:
-- Fornecedor, FornecedorController, create.blade, index.blade, web
