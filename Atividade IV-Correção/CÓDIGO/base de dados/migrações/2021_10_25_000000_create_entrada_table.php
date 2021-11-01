@@ -15,8 +15,11 @@ class CreateEntradaTable extends Migration
     {
         Schema::create('entrada', function (Blueprint $table){
             $table->id();
+            $table->timestamps();
             $table->date('data_entrada');
             $table->date('data_saida');
+            $table->unsignedBigInteger('fornecedor_id');
+            $table->foreign('fornecedor_id')->references('id')->on('fornecedor');
 
         });
     }
