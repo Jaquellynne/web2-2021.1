@@ -1,1 +1,2 @@
-- O layout e o css 
+- Código do arquivo style.css dentro da pasta public/css.
+- Código do arquivo main.blade.php dentro da pasta view/layouts.
