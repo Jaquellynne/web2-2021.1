@@ -64,3 +64,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Layout
+Tela de login
+![tela de login](https://user-images.githubusercontent.com/51082468/154152355-0ebdaadf-80a4-4530-953e-21632ebdfe86.jpg)
+Tela Inicial
+![telainicial](https://user-images.githubusercontent.com/51082468/154152429-70112f7c-f814-4ede-8075-b15d3cc293dd.jpg)
+
+## Funcionalidades
+✔️ Login
+
+✔️ Cadastro, consulta, edição e remoção de Venda
+
+✔️ Cadastro, consulta, edição e remoção de Compra
+
+✔️ Cadastro, consulta, edição e remoção de Funcionários
+
+✔️ Cadastro, consulta, edição e remoção de Clientes
+
+✔️ Cadastro, consulta, edição e remoção de Fornecedores
