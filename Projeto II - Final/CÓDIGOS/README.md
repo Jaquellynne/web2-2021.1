@@ -87,7 +87,9 @@ Tela Inicial
 ## Acesso ao Sistema
 
 Utilizar as seguintes credenciais:
-email: admin@admin.com
+
+Email: admin@admin.com
+
 Senha: 12345678
 
 Link de acesso ao sistema:
