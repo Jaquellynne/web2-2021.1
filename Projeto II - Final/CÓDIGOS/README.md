@@ -83,3 +83,12 @@ Tela Inicial
 ✔️ Cadastro, consulta, edição e remoção de Clientes
 
 ✔️ Cadastro, consulta, edição e remoção de Fornecedores
+
+## Acesso ao Sistema
+
+Utilizar as seguintes credenciais:
+email: admin@admin.com
+Senha: 12345678
+
+Link de acesso ao sistema:
+http://mysystemcar.epizy.com/home
