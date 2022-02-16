@@ -1,4 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/51082468/154310944-61094920-e7c0-4636-a94b-ba15bd20571f.jpg)
+
 Carsystem é um sistema WEB de concessionária de automóveis desenvolvido para a disciplina de Laboratório de Programação WEB II do curso Tecnologia em Análise e Desenvolvimentos de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi.
 
 Tecnologias │ Layout | Funcionalidades │ Acesso
@@ -35,21 +36,24 @@ Tela Inicial
 ## Acesso ao Sistema
 
 Para acessar é necessário:
-Ter instalado em sua máquina o PHP 7.0.0 ou versão superior: Download PHP.
 
-Clonar este repositório em sua máquina:
-https://github.com/Jaquellynne/web2-2021.1
+. Ter instalado em sua máquina o PHP 7.0.0 ou versão superior: Download PHP. -->
 
-Selecionar a branch Projeto II - Final
-https://github.com/Jaquellynne/web2-2021.1/tree/main/Projeto%20II%20-%20Final
+ . Clonar este repositório em sua máquina:
 
-Executar os seguintes comandos:
-# Criar todas as tabelas do banco de dados  SQL:
+ https://github.com/Jaquellynne/web2-2021.1
+
+. Selecionar a branch Projeto II - Final
+
+ https://github.com/Jaquellynne/web2-2021.1/tree/main/Projeto%20II%20-%20Final
+
+. Executar os seguintes comandos:
+Criar todas as tabelas do banco de dados  SQL:
 $ php artisan migrate
-# Rodar o comando:
+Rodar o comando:
 $ php artisan db:seed
 
-Utilizar as seguintes credenciais:
+. Utilizar as seguintes credenciais:
 
 Email: admin@admin.com
 
