@@ -8,7 +8,7 @@ Carsystem é um sistema WEB de concessionária de automóveis desenvolvido para 
 
 <div align="center">
 
-  #### [Tecnologias](#tecnologias) │ ]Layout](#layout) | [Funcionalidades](#funcionalidades) │ [Acesso](#acesso-ao-sistema) 
+  #### [Tecnologias](#tecnologias) │ [Layout](#layout) | [Funcionalidades](#funcionalidades) │ [Acesso](#acesso-ao-sistema) 
 
 </div>
 
