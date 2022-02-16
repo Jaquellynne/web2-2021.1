@@ -53,7 +53,7 @@ Para acessar é necessário:
 
 . Selecionar a branch projetoII-backend:
 
- <a href= "https://github.com/Jaquellynne/web2-2021.1/tree/main/projetoII-backend"> projetoII-backend</a>.
+ <a href= "https://github.com/Jaquellynne/web2-2021.1/tree/main/projetoII-backend"> ProjetoII-Backend </a>
 
 . Executar os seguintes comandos:
 
