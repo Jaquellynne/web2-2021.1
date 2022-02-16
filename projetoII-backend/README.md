@@ -51,9 +51,9 @@ Para acessar é necessário:
 
  https://github.com/Jaquellynne/web2-2021.1
 
-. Selecionar a branch Projeto II - Final
+. Selecionar a branch projetoII-backend:
 
- https://github.com/Jaquellynne/web2-2021.1/tree/main/Projeto%20II%20-%20Final
+ <a href= "https://github.com/Jaquellynne/web2-2021.1/tree/main/projetoII-backend"> projetoII-backend</a>.
 
 . Executar os seguintes comandos:
 
