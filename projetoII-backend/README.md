@@ -37,7 +37,7 @@ Tela Inicial
 
 Para acessar é necessário:
 
-. Ter instalado em sua máquina o PHP 7.0.0 ou versão superior: Download PHP. -->
+. Ter instalado em sua máquina o PHP 7.0.0 ou versão superior: Download PHP. 
 
  . Clonar este repositório em sua máquina:
 
@@ -48,9 +48,13 @@ Para acessar é necessário:
  https://github.com/Jaquellynne/web2-2021.1/tree/main/Projeto%20II%20-%20Final
 
 . Executar os seguintes comandos:
+
 Criar todas as tabelas do banco de dados  SQL:
+
 $ php artisan migrate
+
 Rodar o comando:
+
 $ php artisan db:seed
 
 . Utilizar as seguintes credenciais:
