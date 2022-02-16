@@ -1,7 +1,16 @@
+<div align="center">
+ 
 ![logo](https://user-images.githubusercontent.com/51082468/154310944-61094920-e7c0-4636-a94b-ba15bd20571f.jpg)
+ 
+</div>
 
 Carsystem é um sistema WEB de concessionária de automóveis desenvolvido para a disciplina de Laboratório de Programação WEB II do curso Tecnologia em Análise e Desenvolvimentos de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi.
 
+<div align="center">
+
+  #### [Tecnologias](#tecnologias) │ Layout[#layout] | [Funcionalidades](#funcionalidades) │ [Acesso](#acesso-ao-sistema) 
+
+</div>
 Tecnologias │ Layout | Funcionalidades │ Acesso
 
 ## Tecnologias
@@ -37,7 +46,7 @@ Tela Inicial
 
 Para acessar é necessário:
 
-. Ter instalado em sua máquina o PHP 7.0.0 ou versão superior: https://www.php.net/downloads Downloads PHP.
+. Ter instalado em sua máquina o PHP 7.0.0 ou versão superior:  <a href="https://www.php.net/downloads">Download PHP</a>.
 
  . Clonar este repositório em sua máquina:
 
