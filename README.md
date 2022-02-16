@@ -4,6 +4,13 @@ Repositório das atividades realizadas durante a disciplina de Laboratório de P
 
 - As atividades I, II, III, IV, V, VI e VII são as atividades desenvolvidas em Laravel durante a I Unidade da Disciplina Web 2.
 
-- O Projeto I é a finalização do projeto das atividades.
+- O Projeto I é a finalização do projeto das atividades. Foi um sistema de vendas com as seguintes funcionalidades:
+✔️ Cadastro, consulta, edição e remoção de Venda
 
-- Projeto II é o sistema desenvolvido em WEB I tranformado em Laravel, sendo esse projeto um sistema de uma concessionária de automóveis.
+✔️ Cadastro, consulta, edição e remoção de Compra
+
+✔️ Cadastro, consulta, edição e remoção de Clientes
+
+✔️ Cadastro, consulta, edição e remoção de Fornecedores
+
+- O Projeto II é o sistema desenvolvido em WEB I tranformado em Laravel, sendo esse projeto um sistema de uma concessionária de automóveis.
