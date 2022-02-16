@@ -37,7 +37,7 @@ Tela Inicial
 
 Para acessar é necessário:
 
-. Ter instalado em sua máquina o PHP 7.0.0 ou versão superior: Download PHP. 
+. Ter instalado em sua máquina o PHP 7.0.0 ou versão superior: https://www.php.net/downloads Downloads PHP.
 
  . Clonar este repositório em sua máquina:
 
